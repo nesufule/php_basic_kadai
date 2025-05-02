@@ -1,8 +1,8 @@
 <?php
 
-$name = $_POST['user_name'];
-$age = $_POST['user_age'];
-$department = $_POST['user_department'];
+$name = $_POST['employee_name'];
+$age = $_POST['employee_age'];
+$department = $_POST['department'];
 
 $errors = [];
 if(empty($name)) {

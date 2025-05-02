@@ -10,19 +10,19 @@
                 <tr>
                     <td>社員名</td>
                     <td>
-                        <input type="text" name="user_name">
+                        <input type="text" name="employee_name">
                     </td>
                 </tr>
                 <tr>
                     <td>年齢</td>
                     <td>
-                        <input type="number" name="user_age">
+                        <input type="number" name="employee_age">
                     </td>
                 </tr>
                 <tr>
                     <td>所属部署</td>
                     <td>
-                        <select name="user_department">
+                        <select name="department">
                             <option value='開発部'>開発部</option>
                             <option value='営業部'>営業部</option>
                             <option value='人事部'>人事部</option>
