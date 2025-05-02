@@ -16,7 +16,7 @@
                 <tr>
                     <td>年齢</td>
                     <td>
-                        <input type="number" name="employee_age">
+                        <input type="text" name="employee_age">
                     </td>
                 </tr>
                 <tr>
